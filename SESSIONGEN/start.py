@@ -17,15 +17,15 @@ async def start(bot: Client, msg: Message):
 ɪ ᴄᴀɴ ʜᴇʟᴘ ʏᴏᴜ ᴛᴏ ɢᴇɴᴇʀᴀᴛᴇ ᴀʟʟ ᴛʏᴘᴇ ᴏғ sᴇssɪᴏɴs..
 ᴄʟɪᴄᴋ ᴏɴ ɢᴇɴᴇʀᴀᴛᴇ sᴇssɪᴏɴ ᴛᴏ ɢᴇɴᴇʀᴀᴛᴇ sᴛʀɪɴɢ sᴇssɪᴏɴ!
 
-ᴍᴀᴅᴇ ʙʏ: [ᴊᴀʀᴠɪs](https://t.me/JARVIS_V2) !""",
+ᴍᴀᴅᴇ ʙʏ: [𝙈𝙍 𝘿𝙀𝙑𝙄𝙇](http://t.me/mrdevil12) !""",
         reply_markup=InlineKeyboardMarkup(
             [
                 [
                     InlineKeyboardButton(text="𖤍 ɢᴇɴᴇʀᴀᴛᴇ sᴇssɪᴏɴ 𖤍", callback_data="generate")
                 ],
                 [
-                    InlineKeyboardButton("ꨄ︎ sᴜᴘᴘᴏʀᴛ ꨄ︎", url="https://t.me/Dora_Hub"),
-                    InlineKeyboardButton("ఌ︎ ᴄʜᴀɴɴᴇʟ ఌ︎", url="https://t.me/JARVIS_V_SUPPORT")
+                    InlineKeyboardButton("ꨄ︎ sᴜᴘᴘᴏʀᴛ ꨄ︎", url="https://t.me/devilbotsupport"),
+                    InlineKeyboardButton("ఌ︎ ᴄʜᴀɴɴᴇʟ ఌ︎", url="https://t.me/devilbots971")
                 ]
             ]
         ),
